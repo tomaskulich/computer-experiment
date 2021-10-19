@@ -1,0 +1,19 @@
+{
+  "name": "computer-experiment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/eslint-parser": "^7.15.8",
+    "babel-eslint": "^10.1.0",
+    "eslint-config-vacuumlabs": "^2.0.14",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-react": "^7.26.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "eslint-config-minimal": "^0.4.2"
+  }
+}
